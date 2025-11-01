@@ -14,7 +14,12 @@
 | 8 | Advanced Concepts | Async, Decorators, Testing, etc. |
 
 📖 **Goal:** Build deep conceptual understanding and logic fluency to prepare for DSA, interviews, and real-world projects.
-
+**practice links:** 
+1. https://www.practicepython.org/
+2. https://www.codechef.com/practice/python
+3. https://www.w3schools.com/python/python_exercises.asp
+4. https://www.interviewbit.com/courses/26/
+5. https://www.interviewbit.com/python-interview-questions/
 ---
 
 ## 📊 PHASE 2 – Data Science Essentials (Day 1–4)
@@ -27,3 +32,4 @@
 | 4 | Exploratory Data Analysis (EDA) | Extracting insights, handling missing values, and visualizing patterns |
 
 📖 **Goal:** Learn to analyze, visualize, and interpret real-world datasets — the foundation for machine learning and data-driven problem solving.
+
