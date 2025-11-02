@@ -32,4 +32,9 @@
 | 4 | Exploratory Data Analysis (EDA) | Extracting insights, handling missing values, and visualizing patterns |
 
 📖 **Goal:** Learn to analyze, visualize, and interpret real-world datasets — the foundation for machine learning and data-driven problem solving.
+> Practice with public datasets:
+>
+> * [Kaggle Datasets](https://www.kaggle.com/datasets)
+> * [Seaborn Built-in Data](https://seaborn.pydata.org/generated/seaborn.load_dataset.html)
+
 
